@@ -1,14 +1,15 @@
-# NRL Bingo
+# VLS Bingo
 
-This is an adaptation of another Bingo game found on github.
+This is an adaptation of another Bingo game found on github for use in AIChE
+VLS webinars.
 
-Replace the words in the `words.js` file with your own ones. Keep the first and last line!
+Feel free to make a PR to add words to `words.js`. Keep the first and last line!
 
 Like this:
 ```
 const words = `
 
-Here comes your own bs
+Here comes your own fun words...
 Each one goes in a separate line
 
 `;
